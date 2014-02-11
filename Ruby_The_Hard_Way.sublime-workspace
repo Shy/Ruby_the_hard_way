@@ -1,0 +1,538 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"p",
+				"Printf"
+			],
+			[
+				"pr",
+				"Println"
+			],
+			[
+				"prin",
+				"Println	n int, err error ƒ"
+			],
+			[
+				"pad",
+				"padding-top"
+			],
+			[
+				"sr",
+				"src=\"https"
+			],
+			[
+				"line",
+				"line-height"
+			],
+			[
+				"mar",
+				"margin-top"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"margin",
+				"margin-top"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"hero",
+				"Hero"
+			],
+			[
+				"fff",
+				"FFFFFF"
+			],
+			[
+				"mongo",
+				"mongo_database"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 56.0,
+		"selected_items":
+		[
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"gosublime ",
+				"GoSublime: Run build command"
+			],
+			[
+				"go help",
+				"GoSublime: Show/Cancel pending tasks"
+			],
+			[
+				"gosublime s",
+				"GoSublime: User Settings"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"tri",
+				"Trailing Spaces: Delete Trailing Spaces"
+			],
+			[
+				"upload",
+				"SFTP: Upload Folder"
+			],
+			[
+				"sync",
+				"SFTP: Sync Local -> Remote…"
+			],
+			[
+				"SYNC",
+				"SFTP: Sync Local -> Remote…"
+			],
+			[
+				"local",
+				"SFTP: Sync Local -> Remote…"
+			],
+			[
+				"sync ",
+				"SFTP: Sync Local -> Remote…"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 462.0
+	},
+	"console":
+	{
+		"height": 118.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/thelonelygod/Dropbox/Extracurriculars/Code/Go_the_hard_way/ex1.go",
+		"/home/thelonelygod/Dropbox/Extracurriculars/Code/Go_the_hard_way/Go_The_Hard_Way.sublime-project",
+		"/home/thelonelygod/Dropbox/Extracurriculars/Code/kamenrider/app.py",
+		"/home/thelonelygod/Dropbox/Extracurriculars/Hackathon/RevolutionUC/Website/index.html",
+		"/home/thelonelygod/.config/sublime-text-3/Packages/GoSublime/USAGE.md",
+		"/home/thelonelygod/.config/sublime-text-3/Packages/User/GoSublime-aux.sublime-settings",
+		"/home/thelonelygod/.config/sublime-text-3/Packages/GoSublime/Preferences.sublime-settings",
+		"/home/thelonelygod/.config/sublime-text-3/Packages/User/GoSublime.sublime-settings",
+		"/home/thelonelygod/.config/sublime-text-3/Packages/GoSublime/CHANGELOG.md",
+		"/home/thelonelygod/Dropbox/Extracurriculars/Hackathon/RevolutionUC/Website/css/carousel.css",
+		"/home/thelonelygod/Downloads/Technical Communication in the Workplace/Technical Communication in the Workplace - Password.txt",
+		"/home/thelonelygod/.config/sublime-text-3/Packages/User/SFTP.errors.log",
+		"/home/thelonelygod/Downloads/Hackcon.txt",
+		"/home/thelonelygod/Downloads/HackconActionItems.txt",
+		"/home/thelonelygod/Downloads/InternationalHackathonDay.txt",
+		"/home/thelonelygod/Dropbox/Extracurriculars/Hackathon/RevolutionUC/Website/js/bootstrap.js",
+		"/home/thelonelygod/Dropbox/Extracurriculars/Hackathon/RevolutionUC/carousel/css/carousel.css",
+		"/home/thelonelygod/Documents/DroneSeniorDesignArduPilot/hcitool.py",
+		"/home/thelonelygod/Dropbox/Extracurriculars/Hackathon/RevolutionUC/carousel/css/bootstrap.css",
+		"/home/thelonelygod/Dropbox/Extracurriculars/Hackathon/RevolutionUC/Website 2/css/bootstrap.css",
+		"/home/thelonelygod/Dropbox/Extracurriculars/Hackathon/RevolutionUC/Website 2/css/carousel.css",
+		"/home/thelonelygod/Dropbox/Extracurriculars/Hackathon/RevolutionUC/Website 2/index.html",
+		"/home/thelonelygod/Dropbox/Extracurriculars/Hackathon/RevolutionUC/Website 2/temp.html",
+		"/home/thelonelygod/Dropbox/Extracurriculars/Hackathon/RevolutionUC/Website 2/js/bootstrap.min.js",
+		"/home/thelonelygod/Dropbox/Extracurriculars/Hackathon/RevolutionUC/Website/index (Shyamal Ruparel's conflicted copy 2014-01-11).html",
+		"/home/thelonelygod/Dropbox/Extracurriculars/Hackathon/RevolutionUC/Website/css/style.css",
+		"/home/thelonelygod/Documents/theconversation/settings.py",
+		"/home/thelonelygod/Dropbox/Extracurriculars/Hackathon/RevolutionUC/Twitter",
+		"/home/thelonelygod/Dropbox/Class/Senior/Tech Writing/Prompt 1.txt",
+		"/home/thelonelygod/Documents/theconversation/static/css/style.css",
+		"/home/thelonelygod/Documents/theconversation/static/themes/usv/usv.css",
+		"/home/thelonelygod/.local/share/applications/chrome-hmjkmjkepdijhoojdojkdfohbdgmmhki-Default.desktop",
+		"/home/thelonelygod/Documents/theconversation/app/posts.py",
+		"/home/thelonelygod/Documents/theconversation/MVN.sublime-project",
+		"/home/thelonelygod/.local/share/applications/sublime.desktop",
+		"/home/thelonelygod/Documents/theconversation/MVN.sublime-workspace",
+		"/home/thelonelygod/Dropbox/Extracurriculars/Hackathon/RevolutionUC/Website/sftp-config.json",
+		"/home/thelonelygod/Documents/Hackathon/index.html",
+		"/home/thelonelygod/Documents/Hackathon/css/style.css",
+		"/home/thelonelygod/Documents/Hackathon/sftp-config.json",
+		"/home/thelonelygod/Documents/Hackathon/_layouts/colophon.html",
+		"/home/thelonelygod/Documents/Hackathon/css/wufoo.css",
+		"/home/thelonelygod/.config/sublime-text-2/Packages/User/SFTP.errors.log",
+		"/home/thelonelygod/Documents/2011.beercamp.com/js/scripts.js",
+		"/home/thelonelygod/Documents/2011.beercamp.com/css/style.css",
+		"/home/thelonelygod/Documents/2011.beercamp.com/index.html",
+		"/home/thelonelygod/Documents/2011.beercamp.com/colophon/index.mdown",
+		"/home/thelonelygod/Documents/2011.beercamp.com/js/jquery-1.4.4.min.js",
+		"/home/thelonelygod/Documents/2011.beercamp.com/js/modernizr.js",
+		"/home/thelonelygod/Documents/2011.beercamp.com/404.html",
+		"/home/thelonelygod/Documents/2011.beercamp.com/humans.txt",
+		"/home/thelonelygod/Documents/2011.beercamp.com/audio/inception.mp3",
+		"/home/thelonelygod/Documents/2011.beercamp.com/audio/inception.ogg",
+		"/home/thelonelygod/Documents/2011.beercamp.com/fonts/hero-webfont.woff",
+		"/home/thelonelygod/Documents/2011.beercamp.com/fonts/hero_light-webfont.woff",
+		"/home/thelonelygod/Documents/2011.beercamp.com/fonts/mod-webfont.woff",
+		"/home/thelonelygod/Documents/2011.beercamp.com/css/wufoo.css",
+		"/home/thelonelygod/Downloads/RevolutionUC.html",
+		"/home/thelonelygod/Downloads/css/style.css",
+		"/home/thelonelygod/Documents/theconversation/app/admin.py",
+		"/home/thelonelygod/Documents/theconversation/templates/post/lists_posts.html",
+		"/home/thelonelygod/Documents/theconversation/documentation/admin_tools.txt",
+		"/home/thelonelygod/Downloads/ruby",
+		"/home/thelonelygod/Downloads/log.txt",
+		"/home/thelonelygod/Documents/theconversation/tornado_server.py",
+		"/home/thelonelygod/Documents/theconversation/lib/mongo.py",
+		"/home/thelonelygod/Documents/theconversation/settings_local_environment.py",
+		"/home/thelonelygod/Documents/theconversation/README.md",
+		"/home/thelonelygod/Documents/theconversation/app/api.py",
+		"/home/thelonelygod/Documents/theconversation/static/401.html",
+		"/home/thelonelygod/Documents/theconversation/static/404.html",
+		"/home/thelonelygod/Documents/theconversation/static/500.html",
+		"/home/thelonelygod/Documents/theconversation/static/robots.txt",
+		"/home/thelonelygod/Documents/theconversation/templates/base.html",
+		"/home/thelonelygod/Documents/theconversation/templates/post/view_post.html",
+		"/home/thelonelygod/Documents/theconversation/static/503.html",
+		"/home/thelonelygod/Documents/theconversation/static/themes/default/default.css",
+		"/home/thelonelygod/.profile",
+		"/home/thelonelygod/Documents/temp/theconversation/settings.py",
+		"/home/thelonelygod/Documents/temp/theconversation/settings_local_environ.py"
+	],
+	"find":
+	{
+		"height": 37.0
+	},
+	"find_in_files":
+	{
+		"height": 95.0,
+		"where_history":
+		[
+			"-*.svg",
+			"",
+			"-*.eot,-*.ttf,-*.woff,-*.svg,,/home/thelonelygod/Documents/2011.beercamp.com/css",
+			"<open folders>",
+			"/home/thelonelygod/Documents/theconversation",
+			"/home/thelonelygod/Documents/theconversation, -/home/thelonelygod/Documents/theconversation/static/css/*",
+			"/home/thelonelygod/Documents/theconversation, -/home/thelonelygod/Documents/theconversation/static/css",
+			"/home/thelonelygod/Documents/theconversation"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"doc",
+			"sponsors",
+			"toaddr",
+			"logo.png",
+			"png",
+			"logo",
+			"font",
+			"glyphicon-chevron-left",
+			"glyphicon",
+			"/home/thelonelygod/Downloads/bootstrap-master/dist/css\n/home/thelonelygod/Downloads/bootstrap-master/dist/fonts\n/home/thelonelygod/Downloads/bootstrap-master/dist/js",
+			"glyphicon",
+			"glyphicon glyphicon-chevron-left",
+			"font",
+			"assets",
+			"img",
+			"../../",
+			"location",
+			"street",
+			"city",
+			"street",
+			"location",
+			"header",
+			"#site-hea",
+			"staff",
+			"feature_posts",
+			"edit_posts",
+			"tournament",
+			"tourn",
+			"schedule",
+			"team",
+			"about",
+			"team",
+			"browser-media",
+			"n3",
+			"ucedu",
+			"uc",
+			"ucedu",
+			"victory ir",
+			"occur",
+			"blurb",
+			"fontfabric",
+			"css",
+			"provide",
+			"feature",
+			"featuring",
+			"h1",
+			"24 hours",
+			"Oswald",
+			"h3",
+			"uc",
+			"Oswald",
+			"Lovelo",
+			"featuring",
+			"links",
+			"featuring",
+			"time",
+			"starting ",
+			"location",
+			"city",
+			"dd0",
+			"#DD0",
+			"b20",
+			"E00122",
+			"e00122",
+			"e00",
+			"hover",
+			"elmo",
+			"223",
+			"DD0",
+			"dd0",
+			"dd",
+			"cc0",
+			"dd",
+			"cc",
+			"party",
+			"beerception",
+			"revolution",
+			"Oswald",
+			"mod",
+			"Oswald",
+			"MOD",
+			"mod",
+			"h1",
+			"cc0",
+			"CC0",
+			"body",
+			"font",
+			"CC0",
+			"h2",
+			"Revolution",
+			"beer",
+			"BEERCEPTION",
+			"beerception",
+			"h1",
+			"width",
+			"revolution",
+			"background",
+			"19",
+			"list post",
+			"admin",
+			"sad",
+			"        \n",
+			"guidelines",
+			"Guidelines",
+			"the conversation",
+			"usv.css",
+			".css",
+			"default.css",
+			"//platform.twitter.com/widgets.js",
+			"platform.twitter",
+			"platform",
+			"share your",
+			"job",
+			"Conversation",
+			"The Conversation",
+			"Midwest Valley News",
+			"The Conversation",
+			"button",
+			"tweepy"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"logo.jpg",
+			"UCEDU",
+			"Lovelo",
+			"000000",
+			"FFFFFF",
+			"E00122",
+			"Mod",
+			"Oswald",
+			"E00122\nE00122\nE00122",
+			"E00122",
+			"Midwest Valley News",
+			"https://platform.twitter.com/widgets.js",
+			"Midwest Valley News"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 30.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.9o:///home/thelonelygod/Dropbox/Extracurriculars/Code/Go_the_hard_way":
+	{
+		"height": 102.0
+	},
+	"output.GoSublime-main-output":
+	{
+		"height": 102.0
+	},
+	"output.GoSublime-output":
+	{
+		"height": 102.0
+	},
+	"output.MarGo-output":
+	{
+		"height": 102.0
+	},
+	"output.exec":
+	{
+		"height": 100.0
+	},
+	"output.sftp":
+	{
+		"height": 94.0
+	},
+	"project": "Ruby_The_Hard_Way.sublime-project",
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"/home/thelonelygod/Downloads/VTCincinnati/VTCinci.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 245.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
