@@ -1,3 +1,0 @@
-Hello
-I am a file
-I will be overwritten

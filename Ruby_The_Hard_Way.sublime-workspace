@@ -4,6 +4,46 @@
 		"selected_items":
 		[
 			[
+				"che",
+				"cheese_count"
+			],
+			[
+				"chee",
+				"cheese_count"
+			],
+			[
+				"puts",
+				"puts"
+			],
+			[
+				"put",
+				"put_none"
+			],
+			[
+				"ar",
+				"arg2"
+			],
+			[
+				"arg",
+				"arg1"
+			],
+			[
+				"Fi",
+				"File	File.foreach (\"..\") { |line| .. }"
+			],
+			[
+				"in",
+				"indata"
+			],
+			[
+				"to",
+				"to_file"
+			],
+			[
+				"from",
+				"from_file"
+			],
+			[
 				"p",
 				"Printf"
 			],
@@ -60,9 +100,18 @@
 	"buffers":
 	[
 		{
+			"file": "ex18.rb",
 			"settings":
 			{
-				"buffer_size": 0,
+				"buffer_size": 331,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "ex19.rb",
+			"settings":
+			{
+				"buffer_size": 572,
 				"line_ending": "Unix"
 			}
 		}
@@ -70,9 +119,13 @@
 	"build_system": "",
 	"command_palette":
 	{
-		"height": 56.0,
+		"height": 102.0,
 		"selected_items":
 		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
 			[
 				"remove",
 				"Package Control: Remove Package"
@@ -126,7 +179,7 @@
 				"Package Control: Install Package"
 			]
 		],
-		"width": 462.0
+		"width": 516.0
 	},
 	"console":
 	{
@@ -147,6 +200,11 @@
 	},
 	"file_history":
 	[
+		"/home/thelonelygod/Dropbox/Extracurriculars/Hackathon/MHacks/pinterest-python-master/lob/Backup_postcard2.py",
+		"/home/thelonelygod/Dropbox/Extracurriculars/Code/Ruby_the_hard_way/ex17.rb",
+		"/home/thelonelygod/Dropbox/Extracurriculars/Hackathon/MHacks/pinterest-python-master/lob/old_postcard.py",
+		"/home/thelonelygod/Dropbox/Extracurriculars/Hackathon/MHacks/Full/Lob_Socket.py",
+		"/home/thelonelygod/Dropbox/Extracurriculars/Code/Ruby_the_hard_way/.gitignore",
 		"/home/thelonelygod/Dropbox/Extracurriculars/Code/Go_the_hard_way/ex1.go",
 		"/home/thelonelygod/Dropbox/Extracurriculars/Code/Go_the_hard_way/Go_The_Hard_Way.sublime-project",
 		"/home/thelonelygod/Dropbox/Extracurriculars/Code/kamenrider/app.py",
@@ -401,29 +459,60 @@
 	"groups":
 	[
 		{
-			"selected": 0,
+			"selected": 1,
 			"sheets":
 			[
 				{
 					"buffer": 0,
+					"file": "ex18.rb",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 0,
+						"buffer_size": 331,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								0,
-								0
+								193,
+								193
 							]
 						],
 						"settings":
 						{
 							"incomplete_sync": null,
-							"syntax": "Packages/Text/Plain text.tmLanguage"
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Ruby/Ruby.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "ex19.rb",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 572,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								254,
+								254
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"syntax": "Packages/Ruby/Ruby.tmLanguage"
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
